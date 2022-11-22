@@ -1,5 +1,3 @@
-Blog platform on stack MongoDB, Express, React, Node
-
 # Backend part of blog-application
 
 ## Available Scripts
